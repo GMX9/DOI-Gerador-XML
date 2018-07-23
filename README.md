@@ -1,4 +1,6 @@
 # DOI-Gerador-XML
+http://www.doi.org/
+
 CREATE_XML.PHP :
 
 Faz a criação do ficheiro mãe em XML 
