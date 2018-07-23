@@ -1,5 +1,5 @@
 <?php
-define('BASE_URL', 'http://acessospgeotecnia.w30.mycloud.pt');
+define('BASE_URL', 'link do website');
 error_reporting(E_ALL);
 ini_set('display_errors', '1');
 $config['database']['host'] = "localhost";
