@@ -3,9 +3,9 @@ define('BASE_URL', 'http://acessospgeotecnia.w30.mycloud.pt');
 error_reporting(E_ALL);
 ini_set('display_errors', '1');
 $config['database']['host'] = "localhost";
-$config['database']['user'] = "spg";
-$config['database']['pass'] = "spg02";
-$config['database']['db'] = "spg";
+$config['database']['user'] = "";
+$config['database']['pass'] = "";
+$config['database']['db'] = "";
 
 /*==========================  CUSTOM-PHP EDIT XML  ============================== */
 /*==========================     Version 3.0     ============================= */
